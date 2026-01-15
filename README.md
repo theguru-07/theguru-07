@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'm Malhar Prasad Ray:
 I'm currently studying MCA at United School Of Business Management,Bhubaneswar.<br>I'm loking for developing new websites and learn more about technologies.<br>I have done multiple projects with AI.<br>I have hands-on experiece with HTML, CSS, Javascript, React.js, Node.js, Next.js, Express.js, Electron.js, Mongodb,SQL,MySQL, etc<br>Looking forward to collaborate with everyone with same interest.<br><br>Thank You.
 
 

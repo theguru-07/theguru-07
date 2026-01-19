@@ -15,7 +15,7 @@ I'm currently studying MCA at United School Of Business Management,Bhubaneswar.<
 ---
 [![](https://visitcount.itsvg.in/api?id=theguru-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **theguru-07/theguru-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
